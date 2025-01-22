@@ -19,3 +19,5 @@ I have implemented an ETL pipeline in python to pre-process the data using panda
 ## How to Use
 
 Launch **Project_1B_ Project_Template.ipynb** to run validation and example queries.
+
+------------------------
